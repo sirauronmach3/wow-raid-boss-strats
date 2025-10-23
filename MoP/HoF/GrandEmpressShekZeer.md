@@ -93,29 +93,55 @@ The phase lasts until the adds all die or 2.5 minutes, whichever happens first (
 
 Our DPS are focusing down the Windblades, but making sure we create amber traps
 
-### Phase Mechanics / Adds:
-- #### [Set'thik Windblades](<https://www.wowhead.com/mop-classic/npc=64453/setthik-windblade>) *(Windblades)*
-  - [Band of Valor](<https://www.wowhead.com/mop-classic/spell=125417/band-of-valor>) gives all adds within 8 yards a 30% damage done increase and a 5% damage taken decrease
-    - Strat: This is why we are not tanking the two groups together
-  - Occasionally will [Fixate](<https://www.wowhead.com/mop-classic/spell=120831/fixate>) on a character for 30 sec
-    - Strat: Just kite the add away from 
-  - Casts an interruptable spell [Dispatch](<https://www.wowhead.com/mop-classic/spell=125877/dispatch>) which buffs them and deals ticking damage to random players
-    - Strat: Interrupt this, or if it gets on them dispell it (Looking at you A-A-Ron).
-  - They drop [Sticky Resin](<https://www.wowhead.com/mop-classic/spell=124748/sticky-resin>) on the ground
-    - This can be picked up by running over it, this applies a movement debuff
-    - When two characters with the debuff come together, they drop a pool on the ground and lose the debuff.
-    - Anyone who runs over the pool also loses the debuff.
-    - After 4 people run over the pool it becomes an [Amber Trap](<https://www.wowhead.com/mop-classic/spell=125803/amber-trap>)
-      - This appears like a large orange crystal and will [trap](<www.wowhead.com/mop-classic/spell=125824/trapped>) whatever add is in it
-      - Imobilizes and does ticking 5% max health damage every 2 sec to whatever add gets trapped
-      - All Windblades will drop aggro and target the prison when something activates it.
-      - This is for the [Reavers](#korthik-reavers-reavers) because they have a ton of HP
-  - Overall Strat for Windblades:
-    - Kite the [Fixate](#setthik-windblades-windblades)
-    - Interrupt [Dispatch](#setthik-windblades-windblades)
-    - DPS, Pick up [Sticky Resin](#setthik-windblades-windblades) and create/fill **2** pools
-    - Tank, when an [Amber Trap](#setthik-windblades-windblades) is made, drag a [Reaver](#korthik-reavers-reavers) into the trap
-    - Tank, when a [Reaver](#korthik-reavers-reavers) goes into an [Amber Trap](#setthik-windblades-windblades) re-acquire aggro on the [Windblades](#setthik-windblades-windblades)
+Any adds that continue into Phase 1 become DPS priority. (Jim should communicate kill order for these)
 
-    # I wonder if we should only trap the reavers after the windblades are down
-- #### [Kor'thik Reavers](<https://www.wowhead.com/mop-classic/npc=63591/korthik-reaver>) *(Reavers)*
+### Phase Mechanics / Adds:
+#### [Set'thik Windblades](<https://www.wowhead.com/mop-classic/npc=64453/setthik-windblade>) *(Windblades)*
+- [Band of Valor](<https://www.wowhead.com/mop-classic/spell=125417/band-of-valor>) gives all adds within 8 yards a 30% damage done increase and a 5% damage taken decrease
+    - Strat: This is why we are not tanking the two groups together.
+    - Forcus down individual adds while cleaving as much as possible.
+- Occasionally will [Fixate](<https://www.wowhead.com/mop-classic/spell=120831/fixate>) on a character for 30 sec
+  - Strat: Just kite the add away from group. This lets
+- Casts an interruptable spell [Dispatch](<https://www.wowhead.com/mop-classic/spell=125877/dispatch>) which buffs them and deals ticking damage to random players
+  - Strat: Interrupt this, or if it gets on them dispell it (Looking at you A-A-Ron).
+- They drop [Sticky Resin](<https://www.wowhead.com/mop-classic/spell=124748/sticky-resin>) on the ground
+  - This can be picked up by running over it, this applies a movement debuff and ticking damage
+  - When two characters with the debuff come together, they drop a pool on the ground and lose the debuff.
+  - Anyone who runs over the pool also loses the debuff.
+  - After 4 people run over the pool it becomes an [Amber Trap](<https://www.wowhead.com/mop-classic/spell=125803/amber-trap>)
+    - This appears like a large orange crystal and will [trap](<www.wowhead.com/mop-classic/spell=125824/trapped>) whatever add is in it
+    - Immobilizes and does ticking 5% max health damage every 2 sec to whatever add gets trapped
+    - All Windblades will drop aggro and target the prison when something activates it.
+    - This is for the [Reavers](#korthik-reavers-reavers) because they have a ton of HP
+  - Communication:
+    - At first, call out pools when you see them
+      - "Pool Here"
+    - Jim will be directing people to pick it up intially to create the pool
+      - "[Name] pick up a Resin"
+      - "Pool is started start picking up resin"
+    - After the pool is created, announce when you are picking it up. This alerts the healers, and lets Jim track how many resins are out and being used so we don't have anyone sitting with an unnecesarry DoT.
+      - "Picking up resin"
+      - "Dropped off resin"
+      - "Prison is up"
+- Strat for Windblades:
+  - Kite the [Fixate](#setthik-windblades-windblades) away from the group of adds
+  - Interrupt [Dispatch](#setthik-windblades-windblades)
+  - Dispell [Dispatch](#setthik-windblades-windblades)
+  - DPS, Pick up [Sticky Resin](#setthik-windblades-windblades) and create/fill **2** pools
+  - Tank, when an [Amber Trap](#setthik-windblades-windblades) is made, drag a [Reaver](#korthik-reavers-reavers) into the trap
+  - Tank, when a [Reaver](#korthik-reavers-reavers) goes into an [Amber Trap](#setthik-windblades-windblades) re-acquire aggro on the [Windblades](#setthik-windblades-windblades) 
+    - (I'm not actually sure this is possible)
+
+#### [Kor'thik Reavers](<https://www.wowhead.com/mop-classic/npc=63591/korthik-reaver>) *(Reavers)*
+- [Poison Bomb](<https://www.wowhead.com/mop-classic/spell=124777/poison-bomb>) Does initial damage ~93k with an additional tick of ~15k every 2 sec
+  - Healers
+- [Toxic Slime](<https://www.wowhead.com/mop-classic/spell=124807/toxic-slime>) Frontal cone attack doing ~80k damage to anyone inside of it.
+  - Tanks, point theses guys away from the raid
+  - Raid, avoid being in front of the [Reavers](#korthik-reavers-reavers)
+- [Poison-Drenched Armor](<https://www.wowhead.com/mop-classic/spell=124821/poison-drenched-armor>) Applies a DPS buff [Poison Fumes](<https://www.wowhead.com/mop-classic/spell=124827/poison-fumes>) which occasionally gives you an extra ~50k damage to an attack for 2 min. It will apply to other people who are close to you. (75% proc chance, 3 sec cooldown)
+  - Tank, occasionally try to give this to other people (low priority)
+  - DPS, do not try to manuever to get this, the tank is managing the cone attacks from the [Reavers](#korthik-reavers-reavers)
+- Strat for Reavers:
+  - Tank them away from the other adds
+  - Tank, point them away from raid to avoid unnecessary damage from [Toxic Slime](#korthik-reavers-reavers)
+  - Tank, drag them into [Amber Trap](#setthik-windblades-windblades) when it becomes available.
