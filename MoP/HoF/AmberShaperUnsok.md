@@ -4,7 +4,34 @@
 - *[Fatboss](<https://www.youtube.com/watch?v=UzfCS6_bYEA>)*
 
 A core component of this boss is using the vehicle controls of the [Mutated Construct](#mutated-construct), which everyone will experience being inside of at some point. During phase 3, there will no longer be an escape mechanic from the vehicle.
-#### [Mutated Construct](<>)
+#### [Mutated Construct](<https://www.wowhead.com/mop-classic/npc=62701/mutated-construct>)
+- ##### [Amber Explosion](<https://www.wowhead.com/mop-classic/spell=122398/amber-explosion>)
+  - Cast made by the vehicle itself, it will start doing this with or without player action.
+  - 2.5 sec cast
+  - 250k Raid damage
+  - Can be interrupted by [Struggle for Control](#struggle-for-control)
+  - Strat:
+    - Everyone: Interrupted this every time withe [Struggle for Control](#struggle-for-control)
+
+- ##### [Amber Strike](<https://www.wowhead.com/mop-classic/spell=122389/amber-strike>)
+  - Strike which deals 350k damage to target
+  - 6 sec cooldown
+  - Applies [Destabilize](#destabilize) to target
+  - Interrupts [Monstrosity](#amber-monstrosity) casting [Amber Explosion](#amber-explosion-1)
+  - Strat:
+    - Interrupting the [Monstrosity](#amber-monstrosity)'s [Amber Explosion](#amber-explosion-1) is the top priority.
+
+- ##### [Struggle for Control](<https://www.wowhead.com/mop-classic/spell=122395/struggle-for-control>)
+
+- ##### [Break Free](<https://www.wowhead.com/mop-classic/spell=123060/break-free>)
+
+- ##### [Destabilize](<https://www.wowhead.com/mop-classic/spell=123059/destabilize>)
+  - Increases damage done to target by 10% for 1 min
+  - This effect stacks
+    - (I don't know what the cap on stacks is, assume it is unattainable)
+  - Strat:
+    - Keep this up on Amber-Shaper for the entire fight. This will 
+
 
 ## Phase 1
 Phase ends when Amber-Shaper gets to 70% health
