@@ -30,6 +30,7 @@ This phase is just the Amber-Shaper and the [Living Amber](#living-amber) create
   - Strat:
     - Target: kite the add away from melee, avoid letting it hit you.
     - Ranged: These are DPS priority. If one is targetting a healer, it becomes TOP priority.
+    - Raid Lead: call out priority change "Living Ambers are up, ranged focus", "Living Amber on Heals, marked skull, range focus"
 
 
 - #### [Parasitic Growth](<https://www.wowhead.com/mop-classic/spell=121949/parasitic-growth>)
@@ -43,8 +44,13 @@ This phase is just the Amber-Shaper and the [Living Amber](#living-amber) create
 - #### [Reshape Life](<https://www.wowhead.com/mop-classic/spell=122370/reshape-life>)
   - Transforms a character into a [Mutated Construct](#mutated-construct)
   - In phase 1, this only happens to the tank
+  - Can be healed by [Living Amber](#living-amber)'s death explosion.
   - Strat:
     - DPS: Prioritize dropping [Mutated Construct](#mutated-construct) to below 20% health immediately before swapping back to the boss.
+    - Raid Lead: call out priority change: "Construct up, swap dps to construct", "Stop dps, swap back to boss"
+    - If Construct catches a [Living Amber](#livin]g-amber) explosion, it needs to be dropped below 20% again. Then, follow the above strats.
+    - Tanks: follow priority algorithm for [Mutated Construct](#mutated-construct) above.
+    - Tanks: drop out of construct before the current active tank is transformed. You cannot tank the boss as a construct, they take additional damage from the boss.
 
 ## Phase 2
 
