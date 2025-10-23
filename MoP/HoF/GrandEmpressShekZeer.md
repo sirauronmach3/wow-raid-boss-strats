@@ -1,7 +1,7 @@
 # [Grand Empress Shek'zeer](<https://www.wowhead.com/mop-classic/guide/raids/grand-empress-shekzeer-heart-of-fear-strategy-abilities>)
 [fatboss video](<https://youtu.be/b6m8_bkze5o?si=7HJPMElVOpnkd-sS>)
 
-She will alternate between phase 1 & 2 until she reaches 30% health, then move into phase 3.
+She will alternate between phase 1 & 2 until she reaches 30% health, then move into phase 3. She can only get pushed into phase 3 from phase 1.
 
 There is no enrage timer.
 
@@ -85,9 +85,9 @@ The whole phase is about doing damage to the boss and minimizing/controlling dam
   - Jim will be monitoring all the things we were talking about
   
 ## Phase 2
-During this phase the boss summons 2 types of adds and become immune to damage. They come from the left and right in the form of 1 [Reaver](#korthik-reavers-reavers) and 3 [Windblades](#setthik-windblades-windblades) per side.
+During this phase the boss summons 2 types of adds and become immune to damage. Because she is immune to damage, she will always go back into [Phase 1](#phase-1) at the end of this phase.
 
-One tank will pick up the [Reavers](#korthik-reavers-reavers), the other the [Windblades](#setthik-windblades-windblades)
+The adds come from the left and right in the form of 1 [Reaver](#korthik-reavers-reavers) and 3 [Windblades](#setthik-windblades-windblades) per side. One tank will pick up the [Reavers](#korthik-reavers-reavers), the other the [Windblades](#setthik-windblades-windblades)
 
 The phase lasts until the adds all die or 2.5 minutes, whichever happens first (So, functionally another dps check with mechanics we use to speed it along)
 
@@ -161,3 +161,29 @@ As before, do everything you can to mitigate damage. That includes not having th
 - Everyone, interrupt [Dispatch](#setthik-windblades-windblades)
 - Everyone, dispell [Dispatch](#setthik-windblades-windblades)
 - DPS, adds that survive into next phase are priority
+
+## Phase 3
+This is the most heal intensive phase, and is a DPS race while continuing to try and avoid unnecessary damage.
+
+Depending on how fast we've burned through the previous phases, and how well incoming damage has been mitigated, will determine how much healing there is left.
+
+The remaining healing availability is what determines how much time we have to burn through this phase.
+
+This is when we bloolust. ***Everyone remind Jim at the beginning of the phase***, "LUST !!!"
+
+### Phase 3 Mechanics:
+- #### [Eyes of the Empress](<https://www.wowhead.com/mop-classic/spell=123707/eyes-of-the-empress>)
+  - Same as before
+  - Tank Debuff
+  - Stacks up to 5 times, at 5 the tank will be permanently dominated
+  - Strat: Swap at 3 - 4 stacks
+
+- #### [Visions of Demise](<https://www.wowhead.com/mop-classic/spell=124868/visions-of-demise>)
+
+- #### [Consuming Terror](<https://www.wowhead.com/mop-classic/spell=124849/consuming-terror>)
+
+- #### [Sha Energy](<https://www.wowhead.com/mop-classic/spell=125464/sha-energy>)
+
+- #### [Calamity](<https://www.wowhead.com/mop-classic/spell=124845/calamity>)
+
+- #### [Amassing Darkness](<https://www.wowhead.com/mop-classic/spell=124844/amassing-darkness>)
