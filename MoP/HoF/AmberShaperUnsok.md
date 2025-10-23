@@ -24,13 +24,18 @@ This phase is just the Amber-Shaper and the [Living Amber](#living-amber) create
   - Explodes when it dies:
     - Damage to players within 8 yards
     - Healing to Amber Creatures (including [Living Amber](#living-amber) and [Mutated Construct](#mutated-construct))
-  - Leaves [Burning Amber](<https://www.wowhead.com/mop-classic/spell=123020/burning-amber>), when it dies.
-    - a pool which does ~75k when inside it
+  - Leaves [Burning Amber](#burning-amber), when it dies.
 
   - Strat:
     - Target: kite the add away from melee, avoid letting it hit you.
     - Ranged: These are DPS priority. If one is targetting a healer, it becomes TOP priority.
     - Raid Lead: call out priority change "Living Ambers are up, ranged focus", "Living Amber on Heals, marked skull, range focus"
+
+- #### [Burning Amber](<https://www.wowhead.com/mop-classic/spell=123020/burning-amber>)
+  - a pool which does ~75k when inside it
+  - Can be picked up by [Mutated Construct](#mutated-construct) for healing
+  - Strat:
+    - Everyone: leave these alone until phase 3
 
 
 - #### [Parasitic Growth](<https://www.wowhead.com/mop-classic/spell=121949/parasitic-growth>)
