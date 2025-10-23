@@ -25,7 +25,7 @@ We'll be using [Dread Screech](#dread-screech) to focus down one of the [Dissona
 ### Phase 1 Mechanics:
 - #### [Eyes of the Empress](<https://www.wowhead.com/mop-classic/spell=123707/eyes-of-the-empress>)
   - Tank Debuff
-  - Stacks up to 5 times, at 5 the tank will be permanently dominated
+  - Stacks up to 5 times, at 5 the tank will be permanently dominated with [Servant of the Empress](<https://www.wowhead.com/mop-classic/spell=123713/servant-of-the-empress>). This will be a wipe, period.
   - Strat: Swap at 3 - 4 stacks
   
 - #### [Dread Screech](<https://www.wowhead.com/mop-classic/spell=123735/dread-screech>)
