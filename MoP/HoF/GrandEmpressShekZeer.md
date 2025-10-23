@@ -14,7 +14,7 @@ That means that everyone needs to avoid things that are going to tax the healers
 Y'all are the heroes, no one is coming to save you.
 
 ## Phase 1
-Phase lasts 2.5 minutes
+Phase lasts 2.5 minutes, or until boss reaches 30% health.
 
 There is only 1 enemy, the boss
 
