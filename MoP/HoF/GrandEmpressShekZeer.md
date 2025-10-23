@@ -1,0 +1,121 @@
+# [Grand Empress Shek'zeer](<https://www.wowhead.com/mop-classic/guide/raids/grand-empress-shekzeer-heart-of-fear-strategy-abilities>)
+[fatboss video](<https://youtu.be/b6m8_bkze5o?si=7HJPMElVOpnkd-sS>)
+
+She will alternate between phase 1 & 2 until she reaches 30% health, then move into phase 3.
+
+There is no enrage timer.
+
+Bloodlust in Phase 3
+
+This is a HEALING INTENSIVE fight (especially phase 3). Most guides recommend 3 heals, but between Patrick and me we feel that isn't ideal and hopefully not necessary for our raid comp.
+
+That means that everyone needs to avoid things that are going to tax the healers in any additional way. Short of dying, deal with things however best you can. 
+
+Y'all are the heroes, no one is coming to save you.
+
+## Phase 1
+Phase lasts 2.5 minutes
+
+There is only 1 enemy, the boss
+
+Focus DPS on the boss
+
+We'll be using [Dread Screech](#dread-screech) to focus down one of the [Dissonance Shields](#dissonance-shield)
+
+### Phase Mechanics:
+- #### [Eyes of the Empress](<https://www.wowhead.com/mop-classic/spell=123707/eyes-of-the-empress>)
+  - Tank Debuff
+  - Stacks up to 5 times, at 5 the tank will be permanently dominated
+  - Strat: Swap at 3 - 4 stacks
+  
+- #### [Dread Screech](<https://www.wowhead.com/mop-classic/spell=123735/dread-screech>)
+  - Targets and damages 1 person
+  - Chains to anyone within 5 yards
+  - Strat: All ranged stay spread at least 5 yards
+  
+- #### [Cry of Terror](<https://www.wowhead.com/mop-classic/spell=123792/cry-of-terror>)
+  - Debuff which does raid-wide damage
+  - Nothing to be done about it
+  - This will be important to deal with the next mechanic
+  
+  
+This is the tricky mechanic for Phase 1
+- #### [Dissonance Shield](<https://www.wowhead.com/mop-classic/spell=128353/dissonance-field>)
+  - Adds which do not target or attack
+  - 2 spawn at once
+    - twice per phase, at 30 seconds into the pahse and again at 90 seconds 
+  - Slowly loses health
+  - You can walk on top of the shield, when on the shield will absorb all spells done on it as damage.
+  - Spells to someone on the shield have no affect
+  - When it dies, it does ~200k Raid damage
+    - More to the character(s) on the shield
+  - If both die at once, it will be a wipe
+  
+  - Dealing with this:
+    - 1 person with [Cry of Terror](#cry-of-terror) goes into the shield
+	- This person will not be able to contribute damage or healing while inside, nor receive healing while inside
+	- Our initial plan is for the first person who gets the debuff, other than tanks or healers, will go into one of the shields immediately (this approach may change when we see it in action)
+	  - That person will say "[NAME], has the debuff (or cry or whatever), going into the shield"
+	  - This alerts the healers to top you up and shield you if they have it available
+	- When you start to get low
+	  - A healer should tell you to come out to be topped up.
+	  - "Get out so I can top you up"
+	  - Don't count on that initially, a lot is happening and you will be better at monitoring your own health than the healers
+	  - "Out of shield, top me up" or something to that effect
+    - We are balancing several things keeping a character in: 
+	*(this is primarily up to Jim initially to be tracking before we can get a more rigid set of rules for our strategy)*
+	  1. The character's HP
+	  1. The raid's HP
+	    - We don't want to deliberately push a shield to pop when people will die from the raid damage
+	  1. The other shield's HP
+	    - We need time to recover HP before the other one burns down
+		- It seems that each one will last approximately 50 sec so we're probably aiming for 25 sec for the shield we focus down
+      1. DPS on boss
+
+
+### Phase Summary
+The whole phase is about doing damage to the boss and minimizing/controlling damage into the raid with the [Dissonance Shield](#dissonance-shield) and [Dread Screech](#dread-screech)
+
+- Tanks, swap at 3-4 stacks of [Eyes of the Empress](#eyes-of-the-empress) , otherwise it's a wipe
+- Ranged, stay spread to avoid chaining [Dread Screech](#dread-screech)
+- If you are the first person to get [Cry of Terror](#cry-of-terror) since the latest [Dissonance Shield](#dissonance-shield) drop, you go to one of the shields
+  - Communicate this
+  - Do not be inside when it detonates
+  - Healers and the person inside the shield, mind HP
+  - Jim will be monitoring all the things we were talking about
+  
+## Phase 2
+During this phase the boss summons 2 types of adds and become immune to damage. They come from the left and right in the form of 1 [Reaver](#korthik-reavers-reavers) and 3 [Windblades](#setthik-windblades-windblades) per side.
+
+One tank will pick up the [Reavers](#korthik-reavers-reavers), the other the [Windblades](#setthik-windblades-windblades)
+
+The phase lasts until the adds all die or 2.5 minutes, whichever happens first (So, functionally another dps check with mechanics we use to speed it along)
+
+Our DPS are focusing down the Windblades, but making sure we create amber traps
+
+### Phase Mechanics / Adds:
+- #### [Set'thik Windblades](<https://www.wowhead.com/mop-classic/npc=64453/setthik-windblade>) *(Windblades)*
+  - [Band of Valor](<https://www.wowhead.com/mop-classic/spell=125417/band-of-valor>) gives all adds within 8 yards a 30% damage done increase and a 5% damage taken decrease
+    - Strat: This is why we are not tanking the two groups together
+  - Occasionally will [Fixate](<https://www.wowhead.com/mop-classic/spell=120831/fixate>) on a character for 30 sec
+    - Strat: Just kite the add away from 
+  - Casts an interruptable spell [Dispatch](<https://www.wowhead.com/mop-classic/spell=125877/dispatch>) which buffs them and deals ticking damage to random players
+    - Strat: Interrupt this, or if it gets on them dispell it (Looking at you A-A-Ron).
+  - They drop [Sticky Resin](<https://www.wowhead.com/mop-classic/spell=124748/sticky-resin>) on the ground
+    - This can be picked up by running over it, this applies a movement debuff
+    - When two characters with the debuff come together, they drop a pool on the ground and lose the debuff.
+    - Anyone who runs over the pool also loses the debuff.
+    - After 4 people run over the pool it becomes an [Amber Trap](<https://www.wowhead.com/mop-classic/spell=125803/amber-trap>)
+      - This appears like a large orange crystal and will [trap](<www.wowhead.com/mop-classic/spell=125824/trapped>) whatever add is in it
+      - Imobilizes and does ticking 5% max health damage every 2 sec to whatever add gets trapped
+      - All Windblades will drop aggro and target the prison when something activates it.
+      - This is for the [Reavers](#korthik-reavers-reavers) because they have a ton of HP
+  - Overall Strat for Windblades:
+    - Kite the [Fixate](#setthik-windblades-windblades)
+    - Interrupt [Dispatch](#setthik-windblades-windblades)
+    - DPS, Pick up [Sticky Resin](#setthik-windblades-windblades) and create/fill **2** pools
+    - Tank, when an [Amber Trap](#setthik-windblades-windblades) is made, drag a [Reaver](#korthik-reavers-reavers) into the trap
+    - Tank, when a [Reaver](#korthik-reavers-reavers) goes into an [Amber Trap](#setthik-windblades-windblades) re-acquire aggro on the [Windblades](#setthik-windblades-windblades)
+
+    # I wonder if we should only trap the reavers after the windblades are down
+- #### [Kor'thik Reavers](<https://www.wowhead.com/mop-classic/npc=63591/korthik-reaver>) *(Reavers)*
