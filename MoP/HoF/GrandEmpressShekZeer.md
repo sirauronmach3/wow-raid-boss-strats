@@ -163,6 +163,8 @@ As before, do everything you can to mitigate damage. That includes not having th
 - DPS, adds that survive into next phase are priority
 
 ## Phase 3
+Stack up behind the boss and nuke the shit out of her. Save C/Ds for this phase.
+
 This is the most heal intensive phase, and is a DPS race while continuing to try and avoid unnecessary damage.
 
 Depending on how fast we've burned through the previous phases, and how well incoming damage has been mitigated, will determine how much healing there is left.
@@ -173,17 +175,45 @@ This is when we bloolust. ***Everyone remind Jim at the beginning of the phase**
 
 ### Phase 3 Mechanics:
 - #### [Eyes of the Empress](<https://www.wowhead.com/mop-classic/spell=123707/eyes-of-the-empress>)
-  - Same as before
-  - Tank Debuff
-  - Stacks up to 5 times, at 5 the tank will be permanently dominated
-  - Strat: Swap at 3 - 4 stacks
+  - Same as before, tank swap before 5 stacks
 
 - #### [Visions of Demise](<https://www.wowhead.com/mop-classic/spell=124868/visions-of-demise>)
+  - Debuff, after 4 seconds the target radiates 30k damage in 8 yards and fears the target. The fear is dispellable.
+  - Strat: 
+    - Everyone, stay loosely spread at all times
+    - Target, run out when you get the debuff
+    - Healers: dispell fear
 
 - #### [Consuming Terror](<https://www.wowhead.com/mop-classic/spell=124849/consuming-terror>)
+  - Cone, Randomly targets a player
+  - large purple semicircle on the floor
+  - 200k damage, 8 sec fear
+  - Strat:
+    - Stay close the the boss, but behind her. (tanks in front)
+    - Don't stand in fire, run through the boss if you need to
+    - Healers: dispell fear
 
 - #### [Sha Energy](<https://www.wowhead.com/mop-classic/spell=125464/sha-energy>)
+  - Targets 2 random players, deals 55k damage
+  - Strat:
+    - Healers: heal
 
 - #### [Calamity](<https://www.wowhead.com/mop-classic/spell=124845/calamity>)
+  - Frequently ticking Raid damage, 50% of max health
+  - Strat:
+    - Healers: heal
+    - Everyone: self heal
 
 - #### [Amassing Darkness](<https://www.wowhead.com/mop-classic/spell=124844/amassing-darkness>)
+  - Damaging debuff, 50 k
+  - Every 6 sec it ticks and hits an additional character
+  - Eventually everyone will have this debuff
+  - Strat:
+    - Healers: heal
+
+### Phase 3 Summary
+- DPS & Heals, get behind the boss and nuke the shit out of her.
+- DPS & Heals, stay loosely spread to avoid unnecessary damage from [Visions of Demise](#visions-of-demise)
+- DPS & Heals, stay close into melee to reduce the distance to escape [Consuming Terror](#consuming-terror)
+- Tanks, swap at 3-4 stacks of [Eyes of the Empress](#eyes-of-the-empress-1), otherwise its a wipe
+- Everyone, Run out of the purple cone of [Consuming Terror](#consuming-terror)
