@@ -30,7 +30,7 @@ A core component of this boss is using the vehicle controls of the [Mutated Cons
   - This effect stacks
     - (I don't know what the cap on stacks is, assume it is unattainable)
   - Strat:
-    - Keep this up on Amber-Shaper for the entire fight. This will 
+    - Keep this up on Amber-Shaper for the entire fight. This is the skill which will dramatically increase the rate at which you move through this fight.
 
 
 ## Phase 1
