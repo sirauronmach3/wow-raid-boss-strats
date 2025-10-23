@@ -22,7 +22,7 @@ Focus DPS on the boss
 
 We'll be using [Dread Screech](#dread-screech) to focus down one of the [Dissonance Shields](#dissonance-shield)
 
-### Phase Mechanics:
+### Phase 1 Mechanics:
 - #### [Eyes of the Empress](<https://www.wowhead.com/mop-classic/spell=123707/eyes-of-the-empress>)
   - Tank Debuff
   - Stacks up to 5 times, at 5 the tank will be permanently dominated
@@ -73,7 +73,7 @@ This is the tricky mechanic for Phase 1
       1. DPS on boss
 
 
-### Phase Summary
+### Phase 1 Summary
 The whole phase is about doing damage to the boss and minimizing/controlling damage into the raid with the [Dissonance Shield](#dissonance-shield) and [Dread Screech](#dread-screech)
 
 - Tanks, swap at 3-4 stacks of [Eyes of the Empress](#eyes-of-the-empress) , otherwise it's a wipe
@@ -95,7 +95,7 @@ Our DPS are focusing down the Windblades, but making sure we create amber traps
 
 Any adds that continue into Phase 1 become DPS priority. (Jim should communicate kill order for these)
 
-### Phase Mechanics / Adds:
+### Phase 2 Mechanics / Adds:
 #### [Set'thik Windblades](<https://www.wowhead.com/mop-classic/npc=64453/setthik-windblade>) *(Windblades)*
 - [Band of Valor](<https://www.wowhead.com/mop-classic/spell=125417/band-of-valor>) gives all adds within 8 yards a 30% damage done increase and a 5% damage taken decrease
     - Strat: This is why we are not tanking the two groups together.
@@ -140,8 +140,24 @@ Any adds that continue into Phase 1 become DPS priority. (Jim should communicate
   - Raid, avoid being in front of the [Reavers](#korthik-reavers-reavers)
 - [Poison-Drenched Armor](<https://www.wowhead.com/mop-classic/spell=124821/poison-drenched-armor>) Applies a DPS buff [Poison Fumes](<https://www.wowhead.com/mop-classic/spell=124827/poison-fumes>) which occasionally gives you an extra ~50k damage to an attack for 2 min. It will apply to other people who are close to you. (75% proc chance, 3 sec cooldown)
   - Tank, occasionally try to give this to other people (low priority)
+  - I think this procs to another character once every 5 sec with a 50% chance.
+  - This buff (and the ability to transfer it) persists through death
   - DPS, do not try to manuever to get this, the tank is managing the cone attacks from the [Reavers](#korthik-reavers-reavers)
 - Strat for Reavers:
   - Tank them away from the other adds
   - Tank, point them away from raid to avoid unnecessary damage from [Toxic Slime](#korthik-reavers-reavers)
   - Tank, drag them into [Amber Trap](#setthik-windblades-windblades) when it becomes available.
+
+### Phase 2 Summary
+This whole phase is about creating traps and killing windblades.
+
+As before, do everything you can to mitigate damage. That includes not having the [Sticky Resin](#setthik-windblades-windblades) before it is needed/ready to be picked up.
+
+- Tanks, split the adds with [Reavers](#korthik-reavers-reavers) near the throne and [Windblades](#setthik-windblades-windblades) near the center of the room.
+- DPS, the [Windblades](#setthik-windblades-windblades) are the priority for damage
+- DPS, when directed, pick up [Sticky Resin](#setthik-windblades-windblades) to create 2 pools and to fill the pools to create 2 [Amber Traps](#setthik-windblades-windblades)
+- Everyone, kite the [Windblades](#setthik-windblades-windblades) away from the pack when [Fixated](#setthik-windblades-windblades)
+  - Make sure not to kite a [Windblade](#setthik-windblades-windblades) into an [Amber Trap](#setthik-windblades-windblades)
+- Everyone, interrupt [Dispatch](#setthik-windblades-windblades)
+- Everyone, dispell [Dispatch](#setthik-windblades-windblades)
+- DPS, adds that survive into next phase are priority
