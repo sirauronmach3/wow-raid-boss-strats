@@ -15,11 +15,47 @@ The vehicle starts with 100 willpower and loses 2 willpower per second. Giving y
 
 If you reach 0 willpower, you die and the vehicle becomes sentient as an additional add. An ***Uncontrolled Construct***
 
+<img src="MutatedConstructBar.png">
+
 - ##### [Smash](<>)
   - Melee attack doing 120k damage
-  - GCD
+  - This is your auto-attack
   - Strat:
-    - This is your filler
+    - Right click on the boss and stay in range for this to continue
+
+- ##### [Amber Strike](<https://www.wowhead.com/mop-classic/spell=122389/amber-strike>)
+  - #1
+  - Strike which deals 350k damage to target
+  - 6 sec cooldown
+  - Applies [Destabilize](#destabilize) to target
+  - Interrupts [Monstrosity](#amber-monstrosity-monstrosity) casting [Amber Explosion](#amber-explosion-1)
+  - Strat:
+    - Phase 1: Spam on cooldown
+    - Phase 2: Only use to interrupt the [Monstrosity](#amber-monstrosity-monstrosity)'s [Amber Explosion](#amber-explosion-1). It is the top priority, above even [Struggle for Control](#struggle-for-control).
+    - Phase 3: Only stop spamming to top up your willpower
+
+- ##### [Struggle for Control](<https://www.wowhead.com/mop-classic/spell=122395/struggle-for-control>)
+  - #2
+  - Stuns the vehicle for 0.5 sec
+  - Vehicle takes 100% more damage for 5 sec
+  - Expends 8 Willpower
+  - Strat:
+    - Driver: Use this ability to interrupt [Amber Explosion](#amber-explosion). 
+      - ***This is priority, only behind interrupting [Monstrosity](#amber-monstrosity-monstrosity)'s [Amber Explosion](#amber-explosion-1)***
+
+- #### [Consume Amber](<>)
+  - #3
+  - When touching a [pool](#burning-amber-pool), restore 20 willpower
+  - Heals Vehicle for 2.1m Health
+  - Consumes the [pool](#burning-amber-pool)
+
+- ##### [Break Free](<https://www.wowhead.com/mop-classic/spell=123060/break-free>)
+  - #4
+  - Exits the vehicle
+  - Requires the vehicle to be <20% health
+  - Costs 8 Willpower
+  - Strat:
+    - Use this at or before you are at 10 Willpower
 
 - ##### [Amber Explosion](<https://www.wowhead.com/mop-classic/spell=122398/amber-explosion>)
   - Cast made by the vehicle itself, it will start doing this with or without player action.
@@ -27,34 +63,10 @@ If you reach 0 willpower, you die and the vehicle becomes sentient as an additio
   - 175k Raid damage
   - Can be interrupted by [Struggle for Control](#struggle-for-control)
   - Strat:
-    - Everyone: Interrupted this every time withe [Struggle for Control](#struggle-for-control)
-
-- ##### [Amber Strike](<https://www.wowhead.com/mop-classic/spell=122389/amber-strike>)
-  - Strike which deals 350k damage to target
-  - 6 sec cooldown
-  - Applies [Destabilize](#destabilize) to target
-  - Interrupts [Monstrosity](#amber-monstrosity-monstrosity) casting [Amber Explosion](#amber-explosion-1)
-  - Strat:
-    - Everyone: Interrupting the [Monstrosity](#amber-monstrosity-monstrosity)'s [Amber Explosion](#amber-explosion-1) is the top priority.
-
-- ##### [Struggle for Control](<https://www.wowhead.com/mop-classic/spell=122395/struggle-for-control>)
-  - Stuns the vehicle for 0.5 sec
-  - Vehicle takes 100% more damage for 5 sec
-  - Expends 8 Willpower
-  - Strat:
-    - Driver: Use this ability to interrupt [Amber Explosion](#amber-explosion). *** This is priority, only behind interrupting [Monstrosity](#amber-monstrosity-monstrosity)'s [Amber Explosion](#amber-explosion-1)
-
-- #### [Consume Amber](<>)
-  - When touching a pool, restore 20 willpower
-  - Heals Vehicle for 2.1m Health
-
-- ##### [Break Free](<https://www.wowhead.com/mop-classic/spell=123060/break-free>)
-  - Exits the vehicle
-  - Requires the vehicle to be <20% health
-  - Costs 8 Willpower
+    - Everyone: Interrupted this every time with [Struggle for Control](#struggle-for-control)
 
 - ##### [Destabilize](<https://www.wowhead.com/mop-classic/spell=123059/destabilize>)
-  - Increases damage done to target by 10% for 15 sec
+  - Debuff which increases damage done to target by 10% for 15 sec
   - This effect stacks
     - (I don't know what the cap on stacks is, assume it is unattainable)
   - Strat:
