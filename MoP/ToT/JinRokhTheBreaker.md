@@ -20,6 +20,7 @@ Beyond the basic loop, it is an easy dps check.
 
 ## Mechanics
 
+> [!IMPORTANT]
 >#### [Static Burst](<https://www.wowhead.com/spell=137162>)
 >- Raid damage
 >- Applies 10 stacks of [Static Wound](#static-wound) to the active tank
@@ -27,57 +28,65 @@ Beyond the basic loop, it is an easy dps check.
 >    - Heal damage
  >   - Tank swap
 
+> [!IMPORTANT]
 >#### [Focused Lightning](<https://www.wowhead.com/spell=137422>) *(orb)*
 ><img src="https://wow.zamimg.com/uploads/screenshots/small/354790.jpg">
-
+>
 >- creates an orb that follows the target quickly
 >- orb radiates damage within 5 yards
 >- continues to follow until it connects with the target
 >- when the orb connects it will detonate doing nature damage for 8 yards and making a [fissure](#lightning-fissure)
->- ##### [Lightning Fissure](<https://www.wowhead.com/spell=139467>) *(fissure)*
->    - Does nature damage to all within 3 yards
->    - If an [orb](#focused-lightning-orb) connects with a [fissure](#lightning-fissure-fissure) then it [Implodes](<https://www.wowhead.com/spell=137507>)
->        - Does Raid damage
->        - Adds a stacking debuff which increases the damage taken by future [Implosions](<https://www.wowhead.com/spell=137507>)
+>> [!IMPORTANT]
+>>- ##### [Lightning Fissure](<https://www.wowhead.com/spell=139467>) *(fissure)*
+>>    - Does nature damage to all within 3 yards
+>>    - If an [orb](#focused-lightning-orb) connects with a [fissure](#lightning-fissure-fissure) then it [Implodes](<https://www.wowhead.com/spell=137507>)
+>>        - Does Raid damage
+>>        - Adds a stacking debuff which increases the damage taken by future [Implosions](<https://www.wowhead.com/spell=137507>)
 >- Strat:
 >    - Kite the [orb](#focused-lightning-orb) to the walls, then allow it to drop the [fissure](#lightning-fissure)
 >    - Do not drag an [orb](#focused-lightning-orb) over a [fissure](#lightning-fissure)
 >    - Do not drag an [orb](#focused-lightning-orb) over another character
 >    - If you are about to get an orb dragged over you, move. Especially if you are in [Conductive Waters](#conductive-water-forms-on-the-ground-where-the-target-lands)
 
+> [!IMPORTANT]
 >#### [Thundering Throw](<https://www.wowhead.com/spell=137167>)
 >- Knocks the current active tank back into one of the 4 statues in the room (one in each corner), landing them in front of the now destroyed statue.
 >- Resets threat for the target
 >- 250k damage to target
 >- When the target lands, they and everyone within 14 yards 200k damage and are stunned for 6 seconds.
 >- I haven't found a consensus on which statue gets targetted, but I believe it is the closest statue to the boss.
->- ##### [Conductive Water](<>) forms on the ground where the target lands.
->    - Pool starts small, but grows to take up 1/4 of the room
->    - Applies the [Fluidity](#fluidity) buff when standing in the pool
- >   - Lasts 90 sec
- >   - As it expands, it will remove any [Fissures](#lightning-fissure) is connects with dealing 75k damage to anyone in the water.
+>>[!IMPORTANT]
+>>- ##### [Conductive Water](<>) forms on the ground where the target lands.
+>>    - Pool starts small, but grows to take up 1/4 of the room
+>>    - Applies the [Fluidity](#fluidity) buff when standing in the pool
+ >>   - Lasts 90 sec
+ >>   - As it expands, it will remove any [Fissures](#lightning-fissure) is connects with dealing 75k damage to anyone in the water.
 >- Strat:
 >   - Everyone: stay away from the still standing statues
 >    - Everyone: stand in the [Conductive Water](#conductive-water-forms-on-the-ground-where-the-target-lands)
 >    - Ranged: Maximize distance from boss to be able to run the [orb](#focused-lightning-orb) out.
  >   - Healers: Anticipate damage from [fissures](#lightning-fissure) that the [Conductive Water](#conductive-water-forms-on-the-ground-where-the-target-lands) may encounter.
 
+> [!IMPORTANT]
 >#### [Lightning Storm](<https://www.wowhead.com/spell=137261>)
 >- Transforms [Conductive Water](#conductive-water-forms-on-the-ground-where-the-target-lands) into [Electrified Water](#electrified-water)
->- ##### [Electrified Water](<https://www.wowhead.com/spell=138006>)
->    - Causes continuous nature damage
->    - Increases nature damage taken by 100%
+>> [!IMPORTANT]
+>>- ##### [Electrified Water](<https://www.wowhead.com/spell=138006>)
+>>    - Causes continuous nature damage
+>>    - Increases nature damage taken by 100%
 >- Strat:
 >    - Everyone: Run out of [Conductive Water](#conductive-water-forms-on-the-ground-where-the-target-lands)
 >    - Everyone: Stack under boss to allow healers to heal through the damage
 >    - Healers: Healing c/d's
 
+> [!IMPORTANT]
 >##### <img src = "https://wow.zamimg.com/images/wow/icons/large/spell_nature_purge.jpg"> [Static Wound](<https://www.wowhead.com/spell=138349>)
 >- Does damage to Tank
 >- Does 1/3 of damage done to tank Raid Damage
 >- Strat:
 >    - Tank Swap
 
+> [!IMPORTANT]
 >##### <img src="https://wow.zamimg.com/images/wow/icons/large/inv_misc_volatilewater.jpg"> [Fluidity](<https://www.wowhead.com/spell=138002>)
 >- Increases healing done by 40%
 >- Increases damage done by 40%
