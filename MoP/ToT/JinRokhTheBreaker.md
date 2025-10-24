@@ -1,4 +1,3 @@
-# ⚠️ ***WARNING*** 
 > [!WARNING]
 > ## ***I have not seen the dungeon journal yet, so I have no idea what the numbers are actually going to be*** 
  *I added quote blocks to break up the different mechanics to see how it looks. Next, I'll probably try horizontal lines*
