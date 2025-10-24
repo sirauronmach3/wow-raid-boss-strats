@@ -74,7 +74,6 @@ If you reach 0 willpower, you die and the vehicle becomes sentient as an additio
     - Keep this up on Amber-Shaper for the entire fight. This is the skill which will dramatically increase the rate at which you move through this fight.
 
 - #### Strategy/priority List when inside the [Construct](#mutated-construct-construct):
-  - Stay in melee range to continue [smashing](#smash)
   - Mind your willpower, you need 8 to use [Break Free](#break-free), 
     - ***never let your willpower drop below 10***.
   - Be below 20% health. 
@@ -85,7 +84,7 @@ If you reach 0 willpower, you die and the vehicle becomes sentient as an additio
   - Use [Amber Strike](#amber-strike) on cooldown
     - During [phase 2](#phase-2) this is kept in reserve to interrupt the [Monstrosity](#amber-monstrosity-monstrosity)'s [Amber Explosion](#amber-explosion-1)
   - Use [Struggle for Controll](#struggle-for-control) when your vehicle begins casting [Amber Explosion](#amber-explosion)
-  - Spam [Smash](#smash)
+  - Stay in melee range to continue [smashing](#smash)
 
 ## Phase 1
 Phase ends when Amber-Shaper gets to 70% health
