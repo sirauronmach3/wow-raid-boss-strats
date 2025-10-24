@@ -61,7 +61,8 @@ If you reach 0 willpower, you die and the vehicle becomes sentient as an additio
     - Keep this up on Amber-Shaper for the entire fight. This is the skill which will dramatically increase the rate at which you move through this fight.
 
 - Strategy/priority List when inside the [Construct](#mutated-construct-construct):
-  - Mind your willpower, you need 8 to use [Break Free](#break-free), never let your willpower drop below 8.
+  - Mind your willpower, you need 8 to use [Break Free](#break-free), 
+    - ***never let your willpower drop below 10***.
   - Be below 20% health.
     - When you are above 20% health, communicate that to the raid. Raid lead will direct dps to you. If he doesn't communicate again, until he at least acknowledges.
     - "My construct is above 20"
@@ -146,7 +147,7 @@ The boss summons the [Monstrosity](#amber-monstrosity-monstrosity). This phase c
   
   *It looks the same as the [Construct](#mutated-construct-construct), just bigger.*
 
-  - #### [Amber Explosion](<https://www.wowhead.com/mop-classic/spell=122402/amber-explosion>)
+  - #### [Amber Explosion](https://www.wowhead.com/mop-classic/spell=122402/amber-explosion)
     - 225k raid damage
     - 50 sec cooldown
     - Interruptable by [Amber Strike](#amber-strike)
@@ -157,4 +158,22 @@ The boss summons the [Monstrosity](#amber-monstrosity-monstrosity). This phase c
 ## Phase 3
 This is the burn phase. It will become functionally impossible to damage a [Construct](#mutated-construct-construct) enough to [Break Free](#break-free) because of all the healing they are receiving.
 
-When you are a construct, your HP does not matter as long as you are not the Boss's target. Your only concern is keeping your willpower up by consuming [pools](#burning-amber-pool), and then spamming [Smash](#smash) and [Amber Strike](#amber-strike) on cooldown.
+When you are a construct, your HP does not matter as long as you are not the Boss's target. Your only concern is keeping your willpower up by [consuming](#consume-amber) the [pools](#burning-amber-pool), and then spamming [Smash](#smash) and [Amber Strike](#amber-strike) on cooldown.
+
+The boss has some additional abilities. He also no longer casts [Amber Scalpel](#amber-scalpel), which means we will not get any more [pools](#burning-amber-pool)
+
+### Phase 3 Mechancis
+
+- #### [Concentration Mutation](<https://www.wowhead.com/mop-classic/spell=122556/concentrated-mutation>)
+  - Boss now has 50% increase in attack speed and attack damage
+  - Strat: Burn the boss
+
+- #### [Volatile Amber](<https://www.wowhead.com/mop-classic/spell=123198/volatile-amber>)
+  - 20% heal for [Constructs](#mutated-construct-construct)
+  - Strat:
+    - We are no longer trying to [Break Free](#break-free) as your health will be impossible to get down.
+
+### Phase 3 Strategy
+- Use all healing tools available when not in a [Construct](#mutated-construct-construct)
+- Once in a [Construct](#mutated-construct-construct), mind your willpower and [consume](#consume-amber) the [pools](#burning-amber-pool) to bring it back up.
+- Spam on the boss.
