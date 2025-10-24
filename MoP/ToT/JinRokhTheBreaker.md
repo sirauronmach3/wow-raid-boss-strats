@@ -36,7 +36,6 @@ Beyond the basic loop, it is an easy dps check.
 >- orb radiates damage within 5 yards
 >- continues to follow until it connects with the target
 >- when the orb connects it will detonate doing nature damage for 8 yards and making a [fissure](#lightning-fissure)
->> [!IMPORTANT]
 >>- ##### [Lightning Fissure](<https://www.wowhead.com/spell=139467>) *(fissure)*
 >>    - Does nature damage to all within 3 yards
 >>    - If an [orb](#focused-lightning-orb) connects with a [fissure](#lightning-fissure-fissure) then it [Implodes](<https://www.wowhead.com/spell=137507>)
@@ -55,7 +54,6 @@ Beyond the basic loop, it is an easy dps check.
 >- 250k damage to target
 >- When the target lands, they and everyone within 14 yards 200k damage and are stunned for 6 seconds.
 >- I haven't found a consensus on which statue gets targetted, but I believe it is the closest statue to the boss.
->>[!IMPORTANT]
 >>- ##### [Conductive Water](<>) forms on the ground where the target lands.
 >>    - Pool starts small, but grows to take up 1/4 of the room
 >>    - Applies the [Fluidity](#fluidity) buff when standing in the pool
@@ -70,7 +68,6 @@ Beyond the basic loop, it is an easy dps check.
 > [!IMPORTANT]
 >#### [Lightning Storm](<https://www.wowhead.com/spell=137261>)
 >- Transforms [Conductive Water](#conductive-water-forms-on-the-ground-where-the-target-lands) into [Electrified Water](#electrified-water)
->> [!IMPORTANT]
 >>- ##### [Electrified Water](<https://www.wowhead.com/spell=138006>)
 >>    - Causes continuous nature damage
 >>    - Increases nature damage taken by 100%
