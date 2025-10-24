@@ -66,11 +66,11 @@ This is the tricky mechanic for Phase 1
 	*(this is primarily up to Jim initially to be tracking before we can get a more rigid set of rules for our strategy)*
 	  1. The character's HP
 	  1. The raid's HP
-	    - We don't want to deliberately push a shield to pop when people will die from the raid damage
+	      - We don't want to deliberately push a shield to pop when people will die from the raid damage
 	  1. The other shield's HP
-	    - We need time to recover HP before the other one burns down
-		- It seems that each one will last approximately 50 sec so we're probably aiming for 25 sec for the shield we focus down
-      1. DPS on boss
+	      - We need time to recover HP before the other one burns down
+		  - It seems that each one will last approximately 50 sec so we're probably aiming for 25 sec for the shield we focus down
+    1. DPS on boss
 
 
 ### Phase 1 Summary
