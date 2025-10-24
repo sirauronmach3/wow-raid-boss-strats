@@ -41,6 +41,10 @@ We'll be using [Dread Screech](#dread-screech) to focus down one of the [Dissona
   
 This is the tricky mechanic for Phase 1
 - #### [Dissonance Shield](<https://www.wowhead.com/mop-classic/spell=128353/dissonance-field>)
+<img src="https://wow.zamimg.com/uploads/screenshots/normal/349545-dissonance-field.jpg" width=200>
+
+*Two shields spawned next to each other*
+
   - Adds which do not target or attack
   - 2 spawn at once
     - twice per phase, at 30 seconds into the pahse and again at 90 seconds 
@@ -97,6 +101,8 @@ Any adds that continue into Phase 1 become DPS priority. (Jim should communicate
 
 ### Phase 2 Mechanics / Adds:
 #### [Set'thik Windblades](<https://www.wowhead.com/mop-classic/npc=64453/setthik-windblade>) *(Windblades)*
+<img src="https://wow.zamimg.com/modelviewer/mists/webthumbs/npc/150/43158.webp" width=200>
+
 - [Band of Valor](<https://www.wowhead.com/mop-classic/spell=125417/band-of-valor>) gives all adds within 8 yards a 30% damage done increase and a 5% damage taken decrease
     - Strat: This is why we are not tanking the two groups together.
     - Forcus down individual adds while cleaving as much as possible.
@@ -124,15 +130,17 @@ Any adds that continue into Phase 1 become DPS priority. (Jim should communicate
       - "Dropped off resin"
       - "Prison is up"
 - Strat for Windblades:
-  - Kite the [Fixate](#setthik-windblades-windblades) away from the group of adds
-  - Interrupt [Dispatch](#setthik-windblades-windblades)
-  - Dispell [Dispatch](#setthik-windblades-windblades)
+  - Everyone, Kite the [Fixate](#setthik-windblades-windblades) away from the group of adds
+  - Everyone, Interrupt [Dispatch](#setthik-windblades-windblades)
+  - Anyone, Dispell [Dispatch](#setthik-windblades-windblades) if it gets cast
   - DPS, Pick up [Sticky Resin](#setthik-windblades-windblades) and create/fill **2** pools
   - Tank, when an [Amber Trap](#setthik-windblades-windblades) is made, drag a [Reaver](#korthik-reavers-reavers) into the trap
   - Tank, when a [Reaver](#korthik-reavers-reavers) goes into an [Amber Trap](#setthik-windblades-windblades) re-acquire aggro on the [Windblades](#setthik-windblades-windblades) 
     - (I'm not actually sure this is possible)
 
 #### [Kor'thik Reavers](<https://www.wowhead.com/mop-classic/npc=63591/korthik-reaver>) *(Reavers)*
+<img src="https://wow.zamimg.com/modelviewer/mists/webthumbs/npc/151/43159.webp" width=200>
+
 - [Poison Bomb](<https://www.wowhead.com/mop-classic/spell=124777/poison-bomb>) Does initial damage ~93k with an additional tick of ~15k every 2 sec
   - Healers
 - [Toxic Slime](<https://www.wowhead.com/mop-classic/spell=124807/toxic-slime>) Frontal cone attack doing ~80k damage to anyone inside of it.
