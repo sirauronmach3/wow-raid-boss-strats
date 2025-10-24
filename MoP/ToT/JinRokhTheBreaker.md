@@ -72,7 +72,7 @@ Beyond the basic loop, it is an easy dps check.
 >>    - Causes continuous nature damage
 >>    - Increases nature damage taken by 100%
 >- Strat:
->    - Everyone: Run out of [Conductive Water](#conductive-water-forms-on-the-ground-where-the-target-lands)
+>    - Everyone: Run out of [Conductive Water](#conductive-water-forms-on-the-ground-where-the-target-lands) as soon as the boss starts casting [Lightning Storm](#lightning-storm). It is possible to escapeb before it becomes [Electrified Water](#electrified-water)
 >    - Everyone: Stack under boss to allow healers to heal through the damage
 >    - Healers: Healing c/d's
 
