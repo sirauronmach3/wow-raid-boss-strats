@@ -15,10 +15,10 @@ The vehicle starts with 100 willpower and loses 2 willpower per second. Giving y
 
 If you reach 0 willpower, you die and the vehicle becomes sentient as an additional add. An ***Uncontrolled Construct***
 
-<img src="MutatedConstructBar.png">
+<img src="./images/MutatedConstructBar.png">
 
 
-- ##### [Amber Strike](<https://www.wowhead.com/mop-classic/spell=122389/amber-strike>) <img src="AmberStrike.png">
+- ##### [Amber Strike](<https://www.wowhead.com/mop-classic/spell=122389/amber-strike>) <img src="./images/AmberStrike.png">
   - #1
   - Strike which deals 350k damage to target
   - 6 sec cooldown
@@ -29,7 +29,7 @@ If you reach 0 willpower, you die and the vehicle becomes sentient as an additio
     - Phase 2: Only use to interrupt the [Monstrosity](#amber-monstrosity-monstrosity)'s [Amber Explosion](#amber-explosion-1). It is the top priority, above even [Struggle for Control](#struggle-for-control).
     - Phase 3: Only stop spamming to top up your willpower
 
-- ##### [Struggle for Control](<https://www.wowhead.com/mop-classic/spell=122395/struggle-for-control>) <img src="StruggleForControl.png">
+- ##### [Struggle for Control](<https://www.wowhead.com/mop-classic/spell=122395/struggle-for-control>) <img src="./images/StruggleForControl.png">
   - #2
   - Stuns the vehicle for 0.5 sec
   - Vehicle takes 100% more damage for 5 sec
@@ -38,13 +38,13 @@ If you reach 0 willpower, you die and the vehicle becomes sentient as an additio
     - Driver: Use this ability to interrupt [Amber Explosion](#amber-explosion). 
       - ***This is priority, only behind interrupting [Monstrosity](#amber-monstrosity-monstrosity)'s [Amber Explosion](#amber-explosion-1)***
 
-- #### [Consume Amber](<https://www.wowhead.com/mop-classic/spell=123156/consume-amber>) <img src="ConsumeAmber.png">
+- #### [Consume Amber](<https://www.wowhead.com/mop-classic/spell=123156/consume-amber>) <img src="./images/ConsumeAmber.png">
   - #3
   - When touching a [pool](#burning-amber-pool), restore 20 willpower
   - Heals Vehicle for 2.1m Health
   - Consumes the [pool](#burning-amber-pool)
 
-- ##### [Break Free](<https://www.wowhead.com/mop-classic/spell=123060/break-free>) <img src="BreakFree.png">
+- ##### [Break Free](<https://www.wowhead.com/mop-classic/spell=123060/break-free>) <img src="./images/BreakFree.png">
   - #4
   - Exits the vehicle
   - Requires the vehicle to be <20% health
