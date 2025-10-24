@@ -193,6 +193,8 @@ This is when we bloolust. ***Everyone remind Jim at the beginning of the phase**
     - Healers: dispell fear
 
 - #### [Consuming Terror](<https://www.wowhead.com/mop-classic/spell=124849/consuming-terror>)
+<img src="https://static.icy-veins.com/images/mists-of-pandaria/raids/grand-empress-shekzeer-strategy-3.jpg" width=400>
+
   - Cone, Randomly targets a player
   - large purple semicircle on the floor
   - 200k damage, 8 sec fear
