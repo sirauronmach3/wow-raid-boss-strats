@@ -76,14 +76,14 @@ Beyond the basic loop, it is an easy dps check.
 >    - Everyone: Stack under boss to allow healers to heal through the damage
 >    - Healers: Healing c/d's
 
-> [!IMPORTANT]
+> [!CAUTION]
 >##### <img src = "https://wow.zamimg.com/images/wow/icons/large/spell_nature_purge.jpg"> [Static Wound](<https://www.wowhead.com/spell=138349>)
 >- Does damage to Tank
 >- Does 1/3 of damage done to tank Raid Damage
 >- Strat:
 >    - Tank Swap
 
-> [!IMPORTANT]
+> [!CAUTION]
 >##### <img src="https://wow.zamimg.com/images/wow/icons/large/inv_misc_volatilewater.jpg"> [Fluidity](<https://www.wowhead.com/spell=138002>)
 >- Increases healing done by 40%
 >- Increases damage done by 40%
