@@ -17,11 +17,6 @@ If you reach 0 willpower, you die and the vehicle becomes sentient as an additio
 
 <img src="MutatedConstructBar.png">
 
-- ##### [Smash](<>)
-  - Melee attack doing 120k damage
-  - This is your auto-attack
-  - Strat:
-    - Right click on the boss and stay in range for this to continue
 
 - ##### [Amber Strike](<https://www.wowhead.com/mop-classic/spell=122389/amber-strike>)
   - #1
@@ -43,7 +38,7 @@ If you reach 0 willpower, you die and the vehicle becomes sentient as an additio
     - Driver: Use this ability to interrupt [Amber Explosion](#amber-explosion). 
       - ***This is priority, only behind interrupting [Monstrosity](#amber-monstrosity-monstrosity)'s [Amber Explosion](#amber-explosion-1)***
 
-- #### [Consume Amber](<>)
+- #### [Consume Amber](<https://www.wowhead.com/mop-classic/spell=123156/consume-amber>)
   - #3
   - When touching a [pool](#burning-amber-pool), restore 20 willpower
   - Heals Vehicle for 2.1m Health
@@ -56,6 +51,12 @@ If you reach 0 willpower, you die and the vehicle becomes sentient as an additio
   - Costs 8 Willpower
   - Strat:
     - Use this at or before you are at 10 Willpower
+
+- ##### [Smash](<>)
+  - Melee attack doing 120k damage
+  - This is your auto-attack
+  - Strat:
+    - Right click on the boss and stay in range for this to continue
 
 - ##### [Amber Explosion](<https://www.wowhead.com/mop-classic/spell=122398/amber-explosion>)
   - Cast made by the vehicle itself, it will start doing this with or without player action.
@@ -72,7 +73,8 @@ If you reach 0 willpower, you die and the vehicle becomes sentient as an additio
   - Strat:
     - Keep this up on Amber-Shaper for the entire fight. This is the skill which will dramatically increase the rate at which you move through this fight.
 
-- Strategy/priority List when inside the [Construct](#mutated-construct-construct):
+- #### Strategy/priority List when inside the [Construct](#mutated-construct-construct):
+  - Stay in melee range to continue [smashing](#smash)
   - Mind your willpower, you need 8 to use [Break Free](#break-free), 
     - ***never let your willpower drop below 10***.
   - Be below 20% health.
@@ -89,14 +91,17 @@ Phase ends when Amber-Shaper gets to 70% health
 
 This phase is just the Amber-Shaper and the [Living Amber](#living-amber) created by his [Amber Scalpel](#amber-scapel).
 
+We're focusing damage on the boss, tanks are stacking [Destabilize](#destabilize), and killing [Ambers](#living-amber-amber).
+
 ### Phase 1 Mechanics
 - #### [Amber Scalpel](<https://www.wowhead.com/mop-classic/spell=1245000/amber-scalpel>)
   - Slow moving laser which fixates random player
+  - lasts for 10 sec
   - 40 sec cooldown
   - Does 90k dps
-  - Drops Molten Amber residue (residue) on ground which will disipate eventually
+  - Drops Molten Amber Residue (residue) on ground which will disipate eventually
     - Residue do continuous damage - 40k dps - to players who touch it
-    - Residue occasionally spawn [Living Amber](#living-amber).
+    - Residues occasionally spawn [Living Amber](#living-amber).
 
 - #### [Living Amber](<https://www.wowhead.com/mop-classic/npc=248104/living-amber>) *(Amber)*
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwow.zamimg.com%2Fuploads%2Fscreenshots%2Fnormal%2F411853-living-amber.jpg&f=1&nofb=1&ipt=27964d7ad059b84b7b855a242cb69137d7c952206c66b253d1f4f0088d0e4e3e" width=200>
@@ -104,10 +109,10 @@ This phase is just the Amber-Shaper and the [Living Amber](#living-amber) create
   - Add spawned from pool left behind [Amber Scalpel](#amber-scalpel)
   - Fixates on a random player
   - Aura does 1.5k dps to raid
-  - Explodes when it dies:
+  - Explodes when it dies doing:
     - 70k damage to players within 8 yards
     - Healing to Amber Creatures (including [Ambers](#living-amber) and [Constructs](#mutated-construct), and possible the [Monstrosity](#amber-monstrosity-monstrosity)) 40% of max health
-  - Leaves [Burning Amber](#burning-amber), when it dies.
+  - Leaves a [pool](#burning-amber), when it dies.
 
   - Strat:
     - Target: kite the add away from melee, avoid letting it hit you.
@@ -135,26 +140,48 @@ This phase is just the Amber-Shaper and the [Living Amber](#living-amber) create
   - In phase 1, this only happens to the tank
   - Can be healed by [Living Amber](#living-amber)'s death explosion.
   - Strat:
-    - DPS: Prioritize dropping [Mutated Construct](#mutated-construct) to below 20% health immediately before swapping back to the boss.
+    - DPS: Prioritize dropping [Construct](#mutated-construct) to below 20% health immediately before swapping back to the boss.
     - Raid Lead: call out priority change: "Construct up, swap dps to construct", "Stop dps, swap back to boss"
     - If Construct catches a [Living Amber](#livin]g-amber) explosion, it needs to be dropped below 20% again. Then, follow the above strats.
-    - Tanks: follow priority algorithm for [Mutated Construct](#mutated-construct) above.
-    - Tanks: drop out of construct before the current active tank is transformed. You cannot tank the boss as a construct, they take additional damage from the boss.
+    - Tanks: follow [priority algorithm](#strategypriority-list-when-inside-the-construct) for [Construct](#mutated-construct) above.
+    - Tanks: drop out of [Construct](#mutated-construct) before the current active tank is transformed. You cannot tank the boss as a [Construct](#mutated-construct), they take additional damage from the boss.
 
-- #### [Destroy Will](<>)
+- #### [Destroy Will](<https://www.wowhead.com/mop-classic/spell=124824/destroy-will>)
   - When the boss hits a [Construct](#mutated-construct-construct), it removes 40 willpower as well as the damage.
   - Strat: Do not be the target of the boss if you are in the vehicle.
+
+### Phase 1 Strategy:
+- Everyone: Avoid damage from [laser](#amber-scalpel)
+  - Immediately run out of the raid, trying to drop the residue from the laser on the side.
+- DPS priority: [Construct](#mutated-construct-construct) until it is below 20%
+  - This will be called out by the raid lead
+- Everyone: When you are fixated by an [amber](#living-amber-amber), run it out.
+- Ranged priority: [Ambers](#living-amber-amber)
+  - Top priority to an [amber](#living-amber-amber) that is targetting a healer.
+  - Do not kill an [amber](#living-amber-amber) in or adjacent to the melee stack
+- Tanks:
+  - Spam [Amber Strike](#amber-strike) when in the [construct](#mutated-construct-construct)
+  - Interrupt [Amber Explosion](#amber-explosion) with [Struggle for Control](#struggle-for-control)
+  - [Break Free](#break-free) at or before 10 willpower
+
+This strategy will let the stacks of [Destabilize](#destabilize) fall off in between [Reshape Life](#reshape-life), but it is a lot simpler until we get a better handle on it. We need to get a lot more clean with tank transitions before we can do that.
+- Later on, we'll have the tanks [consume](#consume-amber) a [pool](#burning-amber-pool) after 2 [Amber Strike](#amber-strike)s to get their willpower up, and only then dps them down.
 
 ## Phase 2
 The boss gets 1 new ability, but otherwise has all the same abilities as the previous phase. Now anyone can be targetted by [Reshape Life](#reshape-life).
 
-The boss summons the [Monstrosity](#amber-monstrosity-monstrosity). This phase continues until it is killed.
+The boss summons the [Monstrosity](#amber-monstrosity-monstrosity). This phase continues until the [Monstrosity](#amber-monstrosity-monstrosity) is killed.
 
-- #### [Amber Carapce](<>)
+The [Monstrosity](#amber-monstrosity-monstrosity) replaces the boss as the default dps target.
+
+### Phase 2 Mechanics
+
+- #### [Amber Carapce](<https://www.wowhead.com/mop-classic/spell=122540/amber-carapace>)
   - Boss gets a 99% damage reduction until [Monstrosity](#amber-monstrosity-monstrosity) is destroyed
-  - 
+  - Strat:
+    - The boss is not a dps target this phase except to cleave into.
 
-- #### [Amber Monstrosity](<>) *(Monstrosity)*
+- #### [Amber Monstrosity](<https://www.wowhead.com/mop-classic/npc=62711/amber-monstrosity>) *(Monstrosity)*
   <img src="https://wow.zamimg.com/uploads/screenshots/normal/354775-amber-monstrosity.jpg" width=200> 
   
   *It looks the same as the [Construct](#mutated-construct-construct), just bigger.*
@@ -164,8 +191,30 @@ The boss summons the [Monstrosity](#amber-monstrosity-monstrosity). This phase c
     - 50 sec cooldown
     - Interruptable by [Amber Strike](#amber-strike)
     - Strat:
-      - Interrupting this is #1 priority
+      - Interrupting this is the #1 priority
 
+  - #### [Massive Stomp](<https://www.wowhead.com/mop-classic/spell=122408/massive-stomp>)
+    - 
+    - Strat:
+  
+  - #### [Fling](<https://www.wowhead.com/mop-classic/spell=122413/fling>)
+    - 
+    - Strat:
+
+### Phase 2 Strategy:
+- Everyone: Avoid damage from [laser](#amber-scalpel)
+  - Immediately run out of the raid, trying to drop the residue from the laser on the side.
+- DPS priority: [Construct](#mutated-construct-construct) until it is below 20%
+  - This will be called out by the raid lead
+- Everyone: When you are fixated by an [amber](#living-amber-amber), run it out.
+- Ranged priority: [Ambers](#living-amber-amber)
+  - Top priority to an [amber](#living-amber-amber) that is targetting a healer.
+  - Do not kill an [amber](#living-amber-amber) in or adjacent to the melee stack
+- [Construct](#mutated-construct-construct) Pilots:
+  - Save [Amber Strike](#amber-strike) for the [Monstrosity](#amber-monstrosity-monstrosity)'s [Amber Explosion](#amber-explosion-1)
+  - Interrupt your [Amber Explosion](#amber-explosion) with [Struggle for Control](#struggle-for-control)
+  - [Break Free](#break-free) at or before 10 willpower
+- Everyone: DPS the [Monstrosity](#amber-monstrosity-monstrosity)
 
 ## Phase 3
 This is the burn phase. It will become functionally impossible to damage a [Construct](#mutated-construct-construct) enough to [Break Free](#break-free) because of all the healing they are receiving.
