@@ -77,10 +77,11 @@ If you reach 0 willpower, you die and the vehicle becomes sentient as an additio
   - Stay in melee range to continue [smashing](#smash)
   - Mind your willpower, you need 8 to use [Break Free](#break-free), 
     - ***never let your willpower drop below 10***.
-  - Be below 20% health.
+  - Be below 20% health. 
     - When you are above 20% health, communicate that to the raid. Raid lead will direct dps to you. If he doesn't communicate again, until he at least acknowledges.
     - "My construct is above 20"
     - "My willpower is low, I need my health down"
+      - ~~*Eventually, we should get good enough where most of the damage will be done via cleave and we'll have a better idea what our dps on the [Construct](#mutated-construct-construct) is so we can target it as necessary.*~~
   - Use [Amber Strike](#amber-strike) on cooldown
     - During [phase 2](#phase-2) this is kept in reserve to interrupt the [Monstrosity](#amber-monstrosity-monstrosity)'s [Amber Explosion](#amber-explosion-1)
   - Use [Struggle for Controll](#struggle-for-control) when your vehicle begins casting [Amber Explosion](#amber-explosion)
@@ -123,7 +124,7 @@ We're focusing damage on the boss, tanks are stacking [Destabilize](#destabilize
   - a pool which does 45k dps when touching it or within 3 yards
   - Can be picked up by [Mutated Construct](#mutated-construct) for healing
   - Strat:
-    - Everyone: leave these alone until phase 3
+    - Everyone: leave these alone until phase 2 & 3
     - Everyone: Stay at least 3 yards away
 
 
@@ -174,6 +175,8 @@ The boss summons the [Monstrosity](#amber-monstrosity-monstrosity). This phase c
 
 The [Monstrosity](#amber-monstrosity-monstrosity) replaces the boss as the default dps target.
 
+Tanks will be tanking the boss and the [monstrosity](#amber-monstrosity-monstrosity) individually, and swapping on [Fling](#fling)
+
 ### Phase 2 Mechanics
 
 - #### [Amber Carapce](<https://www.wowhead.com/mop-classic/spell=122540/amber-carapace>)
@@ -191,17 +194,24 @@ The [Monstrosity](#amber-monstrosity-monstrosity) replaces the boss as the defau
     - 50 sec cooldown
     - Interruptable by [Amber Strike](#amber-strike)
     - Strat:
-      - Interrupting this is the #1 priority
+      - Interrupting this is THE #1 priority
 
   - #### [Massive Stomp](<https://www.wowhead.com/mop-classic/spell=122408/massive-stomp>)
-    - 
+    - 15 yard AoE damage and knockback
+    - 150k damage
     - Strat:
+      - Tank the boss against a column to null the knockback on the active tank.
   
   - #### [Fling](<https://www.wowhead.com/mop-classic/spell=122413/fling>)
-    - 
+    - [Monstrosity](#amber-monstrosity-monstrosity) grabs the active tank and throws them at a ranged character
+    - 125k damage to both tank and target, and anyone within 8 yards.
+    - 3 sec stun to all hit
     - Strat:
+      - Spread greater than 8 yards
+      - Tank swap
 
 ### Phase 2 Strategy:
+- Ranged: Stay spread at least 8 yards to avoid splash damage from [Fling](#fling)
 - Everyone: Avoid damage from [laser](#amber-scalpel)
   - Immediately run out of the raid, trying to drop the residue from the laser on the side.
 - DPS priority: [Construct](#mutated-construct-construct) until it is below 20%
@@ -210,10 +220,12 @@ The [Monstrosity](#amber-monstrosity-monstrosity) replaces the boss as the defau
 - Ranged priority: [Ambers](#living-amber-amber)
   - Top priority to an [amber](#living-amber-amber) that is targetting a healer.
   - Do not kill an [amber](#living-amber-amber) in or adjacent to the melee stack
+- Tanks: Swap on [Fling](#fling)
 - [Construct](#mutated-construct-construct) Pilots:
   - Save [Amber Strike](#amber-strike) for the [Monstrosity](#amber-monstrosity-monstrosity)'s [Amber Explosion](#amber-explosion-1)
   - Interrupt your [Amber Explosion](#amber-explosion) with [Struggle for Control](#struggle-for-control)
-  - [Break Free](#break-free) at or before 10 willpower
+  - If no other constructs are up, [consume](#consume-amber) the [pools](#burning-amber-pool) to keep your willpower up.
+  - [Break Free](#break-free) at or before 10 willpower, only when another player is in their own [construct](#mutated-construct-construct)
 - Everyone: DPS the [Monstrosity](#amber-monstrosity-monstrosity)
 
 ## Phase 3
