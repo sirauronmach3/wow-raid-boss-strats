@@ -1,6 +1,7 @@
-# ⚠️ ***WARNING*** [!WARNING]
-## ***I have not seen the dungeon journal yet, so I have no idea what the numbers are actually going to be*** 
-> *I added quote blocks to break up the different mechanics to see how it looks. Next, I'll probably try horizontal lines*
+# ⚠️ ***WARNING*** 
+> [!WARNING]
+> ## ***I have not seen the dungeon journal yet, so I have no idea what the numbers are actually going to be*** 
+ *I added quote blocks to break up the different mechanics to see how it looks. Next, I'll probably try horizontal lines*
 # [Jin'rokh The Breaker](<https://www.icy-veins.com/wow/jin-rokh-the-breaker-strategy-guide-normal-heroic>)
 This is a nice simple first fight with a single phase and some fairly straightforward mechanics
 
