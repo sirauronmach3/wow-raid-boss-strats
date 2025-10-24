@@ -18,7 +18,7 @@ If you reach 0 willpower, you die and the vehicle becomes sentient as an additio
 <img src="./images/MutatedConstructBar.png">
 
 
-- ##### [Amber Strike](<https://www.wowhead.com/mop-classic/spell=122389/amber-strike>) <img src="https://wow.zamimg.com/images/wow/icons/large/ability_criticalstrike.jpg">
+- ##### <img src="https://wow.zamimg.com/images/wow/icons/large/ability_criticalstrike.jpg"> [Amber Strike](<https://www.wowhead.com/mop-classic/spell=122389/amber-strike>) 
   - #1
   - Strike which deals 350k damage to target
   - 6 sec cooldown
@@ -29,7 +29,7 @@ If you reach 0 willpower, you die and the vehicle becomes sentient as an additio
     - Phase 2: Only use to interrupt the [Monstrosity](#amber-monstrosity-monstrosity)'s [Amber Explosion](#amber-explosion-1). It is the top priority, above even [Struggle for Control](#struggle-for-control).
     - Phase 3: Only stop spamming to top up your willpower
 
-- ##### [Struggle for Control](<https://www.wowhead.com/mop-classic/spell=122395/struggle-for-control>) <img src="https://wow.zamimg.com/images/wow/icons/large/spell_nature_focusedmind.jpg">
+- ##### <img src="https://wow.zamimg.com/images/wow/icons/large/spell_nature_focusedmind.jpg"> [Struggle for Control](<https://www.wowhead.com/mop-classic/spell=122395/struggle-for-control>) 
   - #2
   - Stuns the vehicle for 0.5 sec
   - Vehicle takes 100% more damage for 5 sec
@@ -38,13 +38,13 @@ If you reach 0 willpower, you die and the vehicle becomes sentient as an additio
     - Driver: Use this ability to interrupt [Amber Explosion](#amber-explosion). 
       - ***This is priority, only behind interrupting [Monstrosity](#amber-monstrosity-monstrosity)'s [Amber Explosion](#amber-explosion-1)***
 
-- #### [Consume Amber](<https://www.wowhead.com/mop-classic/spell=123156/consume-amber>) <img src="https://wow.zamimg.com/images/wow/icons/large/spell_yorsahj_bloodboil_yellow.jpg">
+- #### <img src="https://wow.zamimg.com/images/wow/icons/large/spell_yorsahj_bloodboil_yellow.jpg"> [Consume Amber](<https://www.wowhead.com/mop-classic/spell=123156/consume-amber>) 
   - #3
   - When touching a [pool](#burning-amber-pool), restore 20 willpower
   - Heals Vehicle for 2.1m Health
   - Consumes the [pool](#burning-amber-pool)
 
-- ##### [Break Free](<https://www.wowhead.com/mop-classic/spell=123060/break-free>) <img src="https://wow.zamimg.com/images/wow/icons/large/classic_spell_fire_elementaldevastation.jpg">
+- ##### <img src="https://wow.zamimg.com/images/wow/icons/large/classic_spell_fire_elementaldevastation.jpg"> [Break Free](<https://www.wowhead.com/mop-classic/spell=123060/break-free>) 
   - #4
   - Exits the vehicle
   - Requires the vehicle to be <20% health
