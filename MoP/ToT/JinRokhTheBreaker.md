@@ -97,4 +97,4 @@ Beyond the basic loop, it is an easy dps check.
         - Don't stand in the [Conductive Waters](#conductive-water-forms-on-the-ground-where-the-target-lands) because of the increased nature damage.
 - When the boss begins casting [Lightning Storm](#lightning-storm) run out of [Conductive Waters](#conductive-water-forms-on-the-ground-where-the-target-lands) and stack in the middle under the boss
     - Healers: use c/d for raid damage
-- Tanks: Swap immediately after 
+- Tanks: Swap immediately after [Static Burst](#static-burst) is cast.
