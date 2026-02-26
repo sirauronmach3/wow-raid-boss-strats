@@ -30,7 +30,7 @@
     * [Lightblinded Vanguard](./voidspire/Linghtblinded_Vanguard.md) (Tier token: Head)
     * [Crown of the Cosmos](./voidspire/Crown_of_the_Cosmos.md.md)
 
-* #### Dreamrift - 
+* #### [Dreamrift](./dreamrift/) - 
   - Single boss : [Chimaerus the Undreamt God](./dreamrift/Chimaerus.md)
   - Tier token : Chest
   - *Timetable*:
@@ -43,7 +43,7 @@
       * Mythic
 
 
-* #### March on Quel'Danas - 
+* #### [March on Quel'Danas](./march_on_queldanas/) - 
   - Located on Isle of Quel'Danas
   - Waiting several weeks
   - Bosses:
