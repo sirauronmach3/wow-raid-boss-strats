@@ -1,5 +1,5 @@
 # Raid Overview
-***ilvl req for season 1 raids*** : 220 \
+***ilvl req for season 1 raids*** : 220 
 
 | Difficulty | Crest Dropped |
 | :--- | :--- |
@@ -8,7 +8,7 @@
 | Heroic | <img src="https://wow.zamimg.com/images/wow/icons/medium/inv_120_crest_hero.jpg" width="12">[Hero Dawncrest](https://www.wowhead.com/currency=3345/hero-dawncrest) |
 | Mythic | <img src="https://wow.zamimg.com/images/wow/icons/medium/inv_120_crest_myth.jpg" width="12">[Myth Dawncrest](https://www.wowhead.com/currency=3347/myth-dawncrest) |
 ### Raid overview
-* #### [Voidspire](./voidspire/) 
+* #### Voidspire
   - This is the big main raid for season 1
   - Located in Voidstorm
   - Timetable:
