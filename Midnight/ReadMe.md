@@ -1,4 +1,4 @@
-# Raid Overview
+# Raid Guide Overview
 ***ilvl req for season 1 raids*** : 220 
 
 | Difficulty | Crest Dropped |
